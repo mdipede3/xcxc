@@ -1,0 +1,11 @@
+Aggiustata security (Michele)
+Complexity..(Michele e Stefano)
+Aggiustata ambiguità (Gianluca)
+Complexity 15% (Michele)
+Eliminati tutti i System.out.println (Gianluca)
+Eliminati "printStackTrace" (Gianluca)
+printStackTrace rimpiazzati con messaggi "dialog" (Gianluca)
+Complexity 80% (Stefano) [controllare conflitti]
+Risolti conflitti (Gianluca)
+Risolto "Initialize all static fields" (Gianluca)
+Risolto duplicate code (Bianca) (foooorse)
